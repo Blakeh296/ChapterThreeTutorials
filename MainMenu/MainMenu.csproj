@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{61C0D24B-C672-4048-9670-2031D39A55CD}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>MainMenu</RootNamespace>
+    <AssemblyName>MainMenu</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AutomobileCosts\AutomobileCosts.csproj">
+      <Project>{d515bf13-868d-47d0-9601-482bdb9cc051}</Project>
+      <Name>AutomobileCosts</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BodyMassIndex\BodyMassIndex.csproj">
+      <Project>{5807906b-8345-4fed-b500-559a9e478575}</Project>
+      <Name>BodyMassIndex</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CalorieCounter\CalorieCounter.csproj">
+      <Project>{a25c83b7-5476-4a49-9f22-d2dee054aaaf}</Project>
+      <Name>CalorieCounter</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CelsiusandFahrenheitConverter\CelsiusandFahrenheitConverter.csproj">
+      <Project>{7d7393c7-ac63-4aa3-ad6e-e1d39db8d0e1}</Project>
+      <Name>CelsiusandFahrenheitConverter</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CookieCalories\CookieCalories.csproj">
+      <Project>{37b470fd-7ae2-4bc3-b8e9-b1ff0d4682b5}</Project>
+      <Name>CookieCalories</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DistanceTraveled\DistanceTraveled.csproj">
+      <Project>{a83fd676-a54c-410b-bae3-addd083f4178}</Project>
+      <Name>DistanceTraveled</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HowMuchInsurance\HowMuchInsurance.csproj">
+      <Project>{c5ae3995-7672-40f3-a915-ca9c80c1f094}</Project>
+      <Name>HowMuchInsurance</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\nameFormatter\nameFormatter.csproj">
+      <Project>{9a870fa3-8d54-4d9b-99aa-793c18cfa819}</Project>
+      <Name>nameFormatter</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PaintJobEstimator\PaintJobEstimator.csproj">
+      <Project>{3bd90d50-b0da-456d-9d84-1932c3d77169}</Project>
+      <Name>PaintJobEstimator</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\salesTaxandTotal\salesTaxandTotal.csproj">
+      <Project>{cb01598e-c369-4713-88cb-9512328e47cc}</Project>
+      <Name>salesTaxandTotal</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SentenceBuilder\SentenceBuilder.csproj">
+      <Project>{c49b4452-cd53-4320-b2ab-30bd633c85a8}</Project>
+      <Name>SentenceBuilder</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TipTaxTotal\TipTaxTotal.csproj">
+      <Project>{ab438680-cabb-49f2-9364-fa04d3ff9d70}</Project>
+      <Name>TipTaxTotal</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
