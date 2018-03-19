@@ -1,0 +1,10 @@
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterThreeTutorials\3.4TestAverageApplication\bin\Debug\3.4TestAverageApplication.exe.config
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterThreeTutorials\3.4TestAverageApplication\bin\Debug\3.4TestAverageApplication.exe
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterThreeTutorials\3.4TestAverageApplication\bin\Debug\3.4TestAverageApplication.pdb
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterThreeTutorials\3.4TestAverageApplication\obj\Debug\ThreeFourTestAverageApplication.csprojResolveAssemblyReference.cache
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterThreeTutorials\3.4TestAverageApplication\obj\Debug\_3._4TestAverageApplication.TestAverageApplication.resources
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterThreeTutorials\3.4TestAverageApplication\obj\Debug\_3._4TestAverageApplication.Properties.Resources.resources
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterThreeTutorials\3.4TestAverageApplication\obj\Debug\ThreeFourTestAverageApplication.csproj.GenerateResource.Cache
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterThreeTutorials\3.4TestAverageApplication\obj\Debug\ThreeFourTestAverageApplication.csproj.CoreCompileInputs.cache
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterThreeTutorials\3.4TestAverageApplication\obj\Debug\3.4TestAverageApplication.exe
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterThreeTutorials\3.4TestAverageApplication\obj\Debug\3.4TestAverageApplication.pdb
