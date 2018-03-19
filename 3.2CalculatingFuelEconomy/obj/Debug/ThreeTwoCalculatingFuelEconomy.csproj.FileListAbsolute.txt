@@ -1,0 +1,9 @@
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterThreeTutorials\3.2CalculatingFuelEconomy\bin\Debug\3.2CalculatingFuelEconomy.exe.config
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterThreeTutorials\3.2CalculatingFuelEconomy\bin\Debug\3.2CalculatingFuelEconomy.exe
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterThreeTutorials\3.2CalculatingFuelEconomy\bin\Debug\3.2CalculatingFuelEconomy.pdb
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterThreeTutorials\3.2CalculatingFuelEconomy\obj\Debug\_3._2CalculatingFuelEconomy.Properties.Resources.resources
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterThreeTutorials\3.2CalculatingFuelEconomy\obj\Debug\ThreeTwoCalculatingFuelEconomy.csproj.GenerateResource.Cache
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterThreeTutorials\3.2CalculatingFuelEconomy\obj\Debug\ThreeTwoCalculatingFuelEconomy.csproj.CoreCompileInputs.cache
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterThreeTutorials\3.2CalculatingFuelEconomy\obj\Debug\3.2CalculatingFuelEconomy.exe
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterThreeTutorials\3.2CalculatingFuelEconomy\obj\Debug\3.2CalculatingFuelEconomy.pdb
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterThreeTutorials\3.2CalculatingFuelEconomy\obj\Debug\CalculateFuelEconomy.calculateFuelEconomy.resources
