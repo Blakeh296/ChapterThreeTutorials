@@ -1,0 +1,9 @@
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterThreeTutorials\3.3SalesPriceCalculator\bin\Debug\3.3SalesPriceCalculator.exe.config
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterThreeTutorials\3.3SalesPriceCalculator\bin\Debug\3.3SalesPriceCalculator.exe
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterThreeTutorials\3.3SalesPriceCalculator\bin\Debug\3.3SalesPriceCalculator.pdb
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterThreeTutorials\3.3SalesPriceCalculator\obj\Debug\_3._3SalesPriceCalculator.Properties.Resources.resources
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterThreeTutorials\3.3SalesPriceCalculator\obj\Debug\ThreeThreeSalesPriceCalculator.csproj.GenerateResource.Cache
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterThreeTutorials\3.3SalesPriceCalculator\obj\Debug\ThreeThreeSalesPriceCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterThreeTutorials\3.3SalesPriceCalculator\obj\Debug\3.3SalesPriceCalculator.exe
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterThreeTutorials\3.3SalesPriceCalculator\obj\Debug\3.3SalesPriceCalculator.pdb
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterThreeTutorials\3.3SalesPriceCalculator\obj\Debug\SalesPriceCalculator.SalePriceCalculator.resources
