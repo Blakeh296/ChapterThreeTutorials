@@ -1,0 +1,9 @@
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterThreeTutorials\3.5ChangeCounterApplication\obj\Debug\_3._5ChangeCounterApplication.Properties.Resources.resources
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterThreeTutorials\3.5ChangeCounterApplication\obj\Debug\ThreeFiveChangeCounterApplication.csproj.GenerateResource.Cache
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterThreeTutorials\3.5ChangeCounterApplication\obj\Debug\ThreeFiveChangeCounterApplication.csproj.CoreCompileInputs.cache
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterThreeTutorials\3.5ChangeCounterApplication\obj\Debug\3.5ChangeCounterApplication.exe
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterThreeTutorials\3.5ChangeCounterApplication\obj\Debug\3.5ChangeCounterApplication.pdb
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterThreeTutorials\3.5ChangeCounterApplication\obj\Debug\ThreeFiveChangeCounterApplication.ChangeCounterApplication.resources
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterThreeTutorials\3.5ChangeCounterApplication\bin\Debug\3.5ChangeCounterApplication.exe.config
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterThreeTutorials\3.5ChangeCounterApplication\bin\Debug\3.5ChangeCounterApplication.exe
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterThreeTutorials\3.5ChangeCounterApplication\bin\Debug\3.5ChangeCounterApplication.pdb
